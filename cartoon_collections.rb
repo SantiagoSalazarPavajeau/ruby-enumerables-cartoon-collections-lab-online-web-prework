@@ -10,7 +10,7 @@ def long_planeteer_calls(array)
   array.any?{|word| word.length > 4}
 end
 
- food = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
+food = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
 
 def find_the_cheese(food)
   cheeses= ["cheddar", "gouda", "camembert"]
